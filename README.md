@@ -1,8 +1,7 @@
 ### Hey 👋, you're lost ?
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/EnzoGzz/EnzoGzz/main/assets/gif.gif" width="280px"/>
+<img align="right" alt="GIF" src="./assets/gif.gif" width="280px"/>
 <img align="right" alt="desyrel nah" src="./assets/spacer.png" width="50px"/>
-
 
 Well, I guess you are here for a reason, so let me ~~introduce myself~~.
 
